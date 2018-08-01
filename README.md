@@ -1,0 +1,2 @@
+# shunqiwang_by_scrapy
+利用scrapy框架爬取顺企网企业的工商信息
